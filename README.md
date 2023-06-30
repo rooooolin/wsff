@@ -28,6 +28,7 @@ The images were cropped from left to right and top to bottom to a size of 256 ×
 
 ## Cite
 ```
+If you use this dataset, please kindly cite:
 @article{XIAO2023107754,
 title = {Weighted skip-connection feature fusion: A method for augmenting UAV oriented rice panicle image segmentation},
 journal = {Computers and Electronics in Agriculture},
