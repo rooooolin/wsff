@@ -19,7 +19,7 @@ The images were cropped from left to right and top to bottom to a size of 256 ×
 
 
 
-|   dataset | images         |   size |   train | valid | modality | resolution |
+|   dataset | images         |   size |   train | valid | modality  |
 |:------------:|:--------------------:|:-------------:|:--------------:|:--------------:|:--------------:|
 |           FSF1E | 1746 |           256x256 |       1418 | 328 | RGB| 
 |           FSF1E | 991 |           256x256 |       774 | 217 | RGB|
