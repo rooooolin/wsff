@@ -24,7 +24,7 @@ The images were cropped from left to right and top to bottom to a size of 256 ×
 ```Note: When cropping large images of FSF1E and FSF2L, the crop method was from left to right and from top to bottom, excluding the margin images with less than 256 pixels and those without rice panicles```
 
 ## Cite
-If you use this dataset, please kindly cite:
+If you use this dataset, please cite:
 ```
 @article{XIAO2023107754,
 title = {Weighted skip-connection feature fusion: A method for augmenting UAV oriented rice panicle image segmentation},
